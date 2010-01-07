@@ -1,0 +1,19 @@
+Description:
+This is a command line PHP program!
+You must have GD too!
+
+Syntax:
+php ani.php Directory of images
+
+Examples:
+php bar_animation.php images1
+php bar_animation.php images2
+...
+
+Usage:
+After running command, Execute index.html in a web browser (tested on firefox!)
+Use left and right arrow keys to play animation!
+
+Developers:
+Bondar Payandeh as Graphic Designer
+Omid Mottaghi <omidmr@gmail.com> as PHP programmer
