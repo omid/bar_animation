@@ -1,9 +1,10 @@
 Description:
 This is a command line PHP program!
 You must have GD too!
+And you should have write permission on image.png and bar.png :-)
 
 Syntax:
-php ani.php Directory of images
+php bar_animation.php "Directory of images"
 
 Examples:
 php bar_animation.php images1
